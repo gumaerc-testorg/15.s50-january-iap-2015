@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 0fbc00e9-a326-77cb-1e20-d6e8cc81abb8
 ---
@@ -55,28 +57,6 @@ Graduate subject credit
 ### Offered
 
 Offered during IAP when an instructor is available to teach the course
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![View of front of the classroom from the right side of the sixth row.]({{< resource_file ba5de2bb-8290-a8e2-1695-e029c08c0f5c >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lectures
-    
-    Tiered classroom with two projectors, computer, sound system, audio conferencing, outlets at each seat, wireless network, chalkboards.
-    
-*   ![View of the classroom seating from the back left side of the room.]({{< resource_file 2febdd4d-db72-41ae-65a0-daafee8930aa >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Review Sessions
-    
-    Flat classroom with modern tables and chairs, LCD video projector, cd/dvd player, overhead, chalkboard, wireless network.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

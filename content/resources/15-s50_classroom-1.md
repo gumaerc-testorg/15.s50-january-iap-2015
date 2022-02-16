@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-s50-poker-theory-and-analytics-january-iap-2015/ba5de2bb8290a8e21695e029c08c0f5c_15-S50_classroom-1.jpg
+file: /media/courses/15-s50-poker-theory-and-analytics-january-iap-2015/ba5de2bb8290a8e21695e029c08c0f5c_15-S50_classroom-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 15-S50_classroom-1.jpg
 uid: ba5de2bb-8290-a8e2-1695-e029c08c0f5c

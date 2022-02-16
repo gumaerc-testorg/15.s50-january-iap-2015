@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 0fbc00e9-a326-77cb-1e20-d6e8cc81abb8
 title: Challenges and Learning Opportunities
 uid: d0e95a07-2340-2b6a-9dbc-be0dcb2bab64

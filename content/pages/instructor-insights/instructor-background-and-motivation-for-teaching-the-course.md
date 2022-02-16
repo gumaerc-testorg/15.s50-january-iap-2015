@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 0fbc00e9-a326-77cb-1e20-d6e8cc81abb8
 title: Instructor Background and Motivation for Teaching the Course
 uid: 8c6e2dd8-6151-7cd5-034e-1c835f73f138
