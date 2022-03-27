@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9cc41ad5-a925-d58d-bc2d-4d26e152ab0f
 resourcetype: Document
 title: Case 1 - Poker Theory and Analytics - 15.S50 IAP 2015
 uid: 2a4c89e7-221b-3824-2ce5-85c7588daf23

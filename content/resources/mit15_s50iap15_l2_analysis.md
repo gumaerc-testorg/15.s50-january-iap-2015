@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6f667a09-25e7-17a0-d75b-3864b5c23e2a
 resourcetype: Document
 title: 'Lecture 2: Analytical Techniques 15.S50 IAP 2015'
 uid: 9ebe68c1-fa1e-9346-c4cd-74e120e680e8

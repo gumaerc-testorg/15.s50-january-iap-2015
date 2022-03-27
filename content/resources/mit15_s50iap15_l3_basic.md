@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6f667a09-25e7-17a0-d75b-3864b5c23e2a
 resourcetype: Document
 title: 'Lecture 3: Basic Strategy 15.S50 IAP 2015'
 uid: b224c39d-36b1-3634-3a73-9f53ee3c24f2

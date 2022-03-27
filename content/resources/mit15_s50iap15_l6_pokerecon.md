@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6f667a09-25e7-17a0-d75b-3864b5c23e2a
 resourcetype: Document
 title: 'Lecture 6: Poker Economics 15.S50 IAP 2015'
 uid: 89425bce-ecb7-1c49-04a1-545c4811af44
