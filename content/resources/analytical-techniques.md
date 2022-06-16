@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Analytical Techniques (PDF - 3.0MB)](resources/mit15_s50iap15_l2_analysis)
+optional_text: '[Analytical Techniques (PDF - 3.0MB)](/courses/15-s50-poker-theory-and-analytics-january-iap-2015/resources/mit15_s50iap15_l2_analysis)
   (Courtesy of Joel Fried. Used with permission.)'
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** Guest Joel Fried demonstrates the tools of the PokerTracker software in this lecture.
 
 **Instructor:** Joel Fried
+
+
+

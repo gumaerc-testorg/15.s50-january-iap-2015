@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-s50-poker-theory-and-analytics-january-iap-2015/2febdd4ddb7241ae65a0daafee8930aa_15-S50_classroom-2.jpg
+file: /courses/15-s50-poker-theory-and-analytics-january-iap-2015/2febdd4ddb7241ae65a0daafee8930aa_15-S50_classroom-2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

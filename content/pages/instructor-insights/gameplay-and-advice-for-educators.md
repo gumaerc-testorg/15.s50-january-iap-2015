@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Kevin Desmond describes the role of gameplay in 15.S50
+  Poker Theory and Analytics and offers advice for educators about actively linking
+  concepts to real-world experience.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

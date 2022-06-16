@@ -5,9 +5,10 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Game Theory (PDF)](resources/mit15_s50iap15_l7_gametheor) (Courtesy
-  of Bill Chen. Used with permission.)'
+optional_text: '[Game Theory (PDF)](/courses/15-s50-poker-theory-and-analytics-january-iap-2015/resources/mit15_s50iap15_l7_gametheor)
+  (Courtesy of Bill Chen. Used with permission.)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** Guest Bill Chen discusses Cepheus, explains regret minimization, Counterfactual Regret, and improvements, and the extension of computer solutions to other games including big bet and multi-player games.
 
 **Instructor:** Bill Chen
+
+
+

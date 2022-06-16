@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Kevin Desmond describes his motivation for teaching
+  15.S50 Poker Theory and Analytics and how the course intersects with his professional
+  and academic experiences.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

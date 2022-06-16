@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Poker Economics (PDF - 2.6MB)](resources/mit15_s50iap15_l6_pokerecon)
+optional_text: '[Poker Economics (PDF - 2.6MB)](/courses/15-s50-poker-theory-and-analytics-january-iap-2015/resources/mit15_s50iap15_l6_pokerecon)
   (Courtesy of Aaron Brown. Used with permission.)'
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** Guest Aaron Brown discusses the history of poker, its influence on futures trading in nineteenth century United States.
 
 **Instructor:** Aaron Brown
+
+
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Kevin Desmond shares challenges he faced in teaching
+  15.S50 Poker Theory and Analytics and how he addressed them.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -12,7 +14,7 @@ uid: d0e95a07-2340-2b6a-9dbc-be0dcb2bab64
 
 _In this section, Kevin Desmond shares challenges he faced in teaching _15.S50 Poker Theory and Analytics_ and how he addressed them._
 
-![Close-up image of various colored poker chips.]({{< resource_file 25c3d91e-dfc7-6d16-8c11-b91cb60888cc >}})
+{{< resource 25c3d91e-dfc7-6d16-8c11-b91cb60888cc >}}
 
 Image courtesy of Max Bisschop on [Flickr](https://www.flickr.com/photos/74449165@N00/3015309301). License: CC BY-SA-NC.
 

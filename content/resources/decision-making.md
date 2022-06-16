@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Decision Making (PDF - 1.8MB)](resources/mit15_s50iap15_l8_decisions)
+optional_text: '[Decision Making (PDF - 1.8MB)](/courses/15-s50-poker-theory-and-analytics-january-iap-2015/resources/mit15_s50iap15_l8_decisions)
   (Courtesy of Matt Hawrilenko. Used with permission.)'
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** In this session, guest Matt Hawrilenko discusses game theory, value betting and bluffing, how to maximize the value of the entire set of hands, and exploitive strategies.
 
 **Instructor:** Matt Hawrilenko
+
+
+

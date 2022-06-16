@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Introduction (PDF - 1.3MB)](resources/mit15_s50iap15_l1_intro)'
+optional_text: '[Introduction (PDF - 1.3MB)](/courses/15-s50-poker-theory-and-analytics-january-iap-2015/resources/mit15_s50iap15_l1_intro)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** An overview of the course requirements, expectations, software used for tournaments, advanced techniques, and some basics tools and concepts for the class are discussed in this lecture.
 
 **Instructor:** Kevin Desmond
+
+
+
