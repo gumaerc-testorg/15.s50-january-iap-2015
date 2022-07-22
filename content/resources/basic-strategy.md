@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Basic Strategy (PDF - 3.3MB)](/courses/15-s50-poker-theory-and-analytics-january-iap-2015/resources/mit15_s50iap15_l3_basic)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Position, pot odds, implied odd, fold equity, and semi-bluffing strategies are discussed in this lecture, and several examples are analyzed.
 
 **Instructor:** Kevin Desmond
-
-
 

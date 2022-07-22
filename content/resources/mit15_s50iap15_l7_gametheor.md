@@ -5,6 +5,7 @@ file: /courses/15-s50-poker-theory-and-analytics-january-iap-2015/de12f68318d55a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 7: Game Theory 15.S50 IAP 2015'
 uid: de12f683-18d5-5abe-d783-652357da6a5f
 ---
 This resource contains the information regarding game theory.
-

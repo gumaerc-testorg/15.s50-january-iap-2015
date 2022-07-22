@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Tournaments (PDF - 4.9MB)](/courses/15-s50-poker-theory-and-analytics-january-iap-2015/resources/mit15_s50iap15_l5_tournmt)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this session Kevin Desmond discusses the tournament life cycle, flop-turn-river play, poker psychology, bankroll management, and the class league results.
 
 **Instructor:** Kevin Desmond
-
-
 

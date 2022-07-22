@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Pre-flop Analysis (PDF - 3.6MB)](/courses/15-s50-poker-theory-and-analytics-january-iap-2015/resources/mit15_s50iap15_l4_preflop)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture focuses on how to play the pre-flop as close to optimally as possible by analyzing several scenarios.
 
 **Instructor:** Kevin Desmond
-
-
 

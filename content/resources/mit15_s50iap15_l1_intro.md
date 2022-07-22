@@ -5,6 +5,7 @@ file: /courses/15-s50-poker-theory-and-analytics-january-iap-2015/9d135ec110a473
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 1: Introduction 15.S50 IAP 2015'
 uid: 9d135ec1-10a4-73ab-76fd-f34ddaf5e665
 ---
 This resource contains the information regarding Introduction.
-

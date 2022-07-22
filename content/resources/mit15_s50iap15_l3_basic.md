@@ -5,6 +5,7 @@ file: /courses/15-s50-poker-theory-and-analytics-january-iap-2015/b224c39d36b136
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 3: Basic Strategy 15.S50 IAP 2015'
 uid: b224c39d-36b1-3634-3a73-9f53ee3c24f2
 ---
 This resource contains the information regarding Basic Strategy.
-

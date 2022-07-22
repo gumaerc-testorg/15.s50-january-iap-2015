@@ -5,6 +5,7 @@ file: /courses/15-s50-poker-theory-and-analytics-january-iap-2015/9ebe68c1fa1e93
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 2: Analytical Techniques 15.S50 IAP 2015'
 uid: 9ebe68c1-fa1e-9346-c4cd-74e120e680e8
 ---
 This resource contains the information regarding analytical techniques.
-
