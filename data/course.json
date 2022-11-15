@@ -39,8 +39,10 @@
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets with Solutions",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Instructor Insights"
   ],
-  "site_uid": "c3da2944-1860-4931-9575-959acce97b58",
+  "site_uid": "67ff6078-aca9-4782-ace8-e1e28b283909",
+  "short_id": "15.s50-january-iap-2015",
   "title": "Course Metadata"
 }
