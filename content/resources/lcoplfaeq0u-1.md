@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-s50-poker-theory-and-analytics-january-iap-2015/99f029e9dd685cc19b494eff3790ef19_LCoPLFaeq0U.pdf
+file_size: 117539
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
