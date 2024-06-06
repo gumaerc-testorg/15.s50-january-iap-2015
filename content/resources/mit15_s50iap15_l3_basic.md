@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Basic Strategy.
 file: /courses/15-s50-poker-theory-and-analytics-january-iap-2015/b224c39d36b136343a739f53ee3c24f2_MIT15_S50IAP15_L3_Basic.pdf
+file_size: 3482900
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
