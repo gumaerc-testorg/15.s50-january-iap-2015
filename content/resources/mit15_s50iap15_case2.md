@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding case 2.
-file: /courses/15-s50-poker-theory-and-analytics-january-iap-2015/c2a6190168e601967e9432bba70871f4_MIT15_S50IAP15_Case2.pdf
+file: /ol-ocw-studio-app/courses/15-s50-poker-theory-and-analytics-january-iap-2015/c2a6190168e601967e9432bba70871f4_MIT15_S50IAP15_Case2.pdf
 file_size: 287641
 file_type: application/pdf
 learning_resource_types:
