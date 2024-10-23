@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Close-up image of various colored poker chips.
-file: /courses/15-s50-poker-theory-and-analytics-january-iap-2015/25c3d91edfc76d168c11b91cb60888cc_15.s50iap15_chips.jpg
+file: /ol-ocw-studio-app/courses/15-s50-poker-theory-and-analytics-january-iap-2015/25c3d91edfc76d168c11b91cb60888cc_15.s50iap15_chips.jpg
 file_size: 133411
 file_type: image/jpeg
 image_metadata:

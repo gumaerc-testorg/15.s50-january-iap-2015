@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Tournaments.
-file: /courses/15-s50-poker-theory-and-analytics-january-iap-2015/46fde8cc2fdf3e4e0453fe3730680a5e_MIT15_S50IAP15_L5_Tournmt.pdf
+file: /ol-ocw-studio-app/courses/15-s50-poker-theory-and-analytics-january-iap-2015/46fde8cc2fdf3e4e0453fe3730680a5e_MIT15_S50IAP15_L5_Tournmt.pdf
 file_size: 4714320
 file_type: application/pdf
 learning_resource_types:
