@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-s50-poker-theory-and-analytics-january-iap-2015/a46d08d4225fc1f085a65ff9b1710746_tXVDY1HvrVU.srt
+file: /courses/15-s50-poker-theory-and-analytics-january-iap-2015/a46d08d4225fc1f085a65ff9b1710746_tXVDY1HvrVU.srt
 file_size: 135490
 file_type: application/x-subrip
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding analytical techniques.
-file: /ol-ocw-studio-app/courses/15-s50-poker-theory-and-analytics-january-iap-2015/9ebe68c1fa1e9346c4cd74e120e680e8_MIT15_S50IAP15_L2_Analysis.pdf
+file: /courses/15-s50-poker-theory-and-analytics-january-iap-2015/9ebe68c1fa1e9346c4cd74e120e680e8_MIT15_S50IAP15_L2_Analysis.pdf
 file_size: 3103886
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Pre-flop Analysis.
-file: /ol-ocw-studio-app/courses/15-s50-poker-theory-and-analytics-january-iap-2015/8826933a49d89d788b584cdd41f69182_MIT15_S50IAP15_L4_PreFlop.pdf
+file: /courses/15-s50-poker-theory-and-analytics-january-iap-2015/8826933a49d89d788b584cdd41f69182_MIT15_S50IAP15_L4_PreFlop.pdf
 file_size: 3723361
 file_type: application/pdf
 learning_resource_types:
