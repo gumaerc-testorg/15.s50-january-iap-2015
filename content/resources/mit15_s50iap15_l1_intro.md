@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Introduction.
-file: /ol-ocw-studio-app/courses/15-s50-poker-theory-and-analytics-january-iap-2015/9d135ec110a473ab76fdf34ddaf5e665_MIT15_S50IAP15_L1_Intro.pdf
+file: /courses/15-s50-poker-theory-and-analytics-january-iap-2015/9d135ec110a473ab76fdf34ddaf5e665_MIT15_S50IAP15_L1_Intro.pdf
 file_size: 1402992
 file_type: application/pdf
 learning_resource_types:
